@@ -139,7 +139,7 @@ main {
   /* display: none; */
   opacity: 0;
   max-height: 0;
-  transition: all 0.5s ease;
+  transition: all 1s ease;
 }
 
 /* Opening hidden text */
@@ -149,7 +149,7 @@ main {
   max-height: 55px;
   font-size: 13px;
   color: var(--Dark-grayish-blue);
-  transition: all 0.5s ease-out;
+  transition: all 1s ease-out;
 }
 
 .open .text-bold {
